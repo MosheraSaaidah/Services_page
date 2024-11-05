@@ -1,0 +1,20 @@
+
+body {
+    background-color: #eee;
+}
+.services {
+  text-align: center;
+  background-color: white;
+}
+
+.service {
+  float: left;
+  width: 30%;
+}
+.service i {
+  background-color: gold;
+  color: white;
+}
+.clear {
+  clear: both;
+}
